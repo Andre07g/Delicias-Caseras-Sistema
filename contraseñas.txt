@@ -1,0 +1,4 @@
+Contraseñas terminal
+
+contraseña empleados: superpan
+contraseña administrador: pan123
