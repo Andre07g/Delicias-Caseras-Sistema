@@ -1,0 +1,62 @@
+[
+    {
+        "Codigo": "TOR-001",
+        "Nombre": "Torta de Ahuyama",
+        "Categoria": "Postres",
+        "Descripcion": "Deliociosa torta a base de ahuyama",
+        "Proveedor": "Pasteleria rondamon",
+        "Existencias": 9,
+        "Precio de venta": 350,
+        "Precio de compra": 200
+    },
+    {
+        "Codigo": "PAN-002",
+        "Nombre": "Pan de toro",
+        "Categoria": "Panes",
+        "Descripcion": "Pan de toro rico",
+        "Proveedor": "Panaderia lucas",
+        "Existencias": 19,
+        "Precio de venta": 30,
+        "Precio de compra": 20
+    },
+    {
+        "Codigo": "PAN-001",
+        "Nombre": "Pan de bono",
+        "Categoria": "Panes",
+        "Descripcion": "Pan rico delicioso bono",
+        "Proveedor": "Panaderia ricopan",
+        "Existencias": 0,
+        "Precio de venta": 100,
+        "Precio de compra": 30
+    },
+    {
+        "Codigo": "JUG-001",
+        "Nombre": "Jugo de mora",
+        "Categoria": "Bebidas",
+        "Descripcion": "Delicioso jugo de mora",
+        "Proveedor": "Jugos Tolima",
+        "Existencias": 82,
+        "Precio de venta": 100,
+        "Precio de compra": 20
+    },
+    {
+        "Codigo": "TOR-003",
+        "Nombre": "Torta de cochola",
+        "Categoria": "Postres",
+        "Descripcion": "Tortica",
+        "Proveedor": "Pasteleria venecva",
+        "Existencias": 100,
+        "Precio de venta": 30,
+        "Precio de compra": 20
+    },
+    {
+        "Codigo": "TOR-006",
+        "Nombre": "Torta de yuca",
+        "Categoria": "Postres",
+        "Descripcion": "Tprta yica",
+        "Proveedor": "pasteleria oryora",
+        "Existencias": 99,
+        "Precio de venta": 100,
+        "Precio de compra": 70
+    }
+]
