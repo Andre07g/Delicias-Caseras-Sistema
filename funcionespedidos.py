@@ -45,8 +45,8 @@ def añadir_pedidos():
                                          
                            if indice is not None:
                                         limpiar_consola()
-                                        print(f"{productos[indice]["Nombre"]} restantes->{productos[indice]["Existencias"]}")
-                                        print(f"Precio->{productos[indice]["Precio de venta"]}")
+                                        print(f"{productos[indice]['Nombre']} restantes->{productos[indice]['Existencias']}")
+                                        print(f"Precio->{productos[indice]['Precio de venta']}")
                                         while True:
                                             while True:
                                                 try:
@@ -154,8 +154,8 @@ def editar_pedido():
                                          indice=i
                                          
                            if indice is not None:
-                                        print(f"{productos[indice]["Nombre"]} restantes->{productos[indice]["Existencias"]}")
-                                        print(f"Precio->{productos[indice]["Precio de venta"]}")
+                                        print(f"{productos[indice]['Nombre']} restantes->{productos[indice]['Existencias']}")
+                                        print(f"Precio->{productos[indice]['Precio de venta']}")
                                         while True:
                                             while True:
                                                 try:

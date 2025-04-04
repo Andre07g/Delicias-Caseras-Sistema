@@ -373,5 +373,5 @@ def advertenciaproductosagotar():
       print("Los siguientes productos estan por agotarse:")
       for producto in productos:
             if producto["Existencias"]<20 and producto["Existencias"]>0:
-                  print(f"{producto["Nombre"]}->{producto["Existencias"]}")
+                  print(f"{producto['Nombre']}->{producto['Existencias']}")
 
