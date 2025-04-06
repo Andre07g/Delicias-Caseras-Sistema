@@ -4,7 +4,7 @@ Programa que permite la gestion de una panaderia, administracion de productos y 
 
 
 ## Descripcion
-
+La panaderia Delicias Caseras desea hacer un sistema que permita a empleados la administracion de productos y pedidos, y a clientes realizar pedidos y pedir informacion sobre productos.
 ### Gestion de productos
 1.Añadir, editar y eliminar productos  
 2.Consultar productos por su codigo, nombre o categoria.  
